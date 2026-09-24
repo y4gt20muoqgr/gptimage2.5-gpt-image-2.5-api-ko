@@ -6,7 +6,7 @@
 
 > 종량제, 최소 1달러 충전, OpenAI 호환 엔드포인트. **flare@1K $0.0085; sunburst@1K $0.0085; flare@2K $0.014**
 
-**[模型页](https://apimart.ai/model) · [实时价格](https://apimart.ai/pricing) · [获取 API Key](https://apimart.ai/keys)**
+**[模型页](https://go.apimart.ai/k-753c3e) · [实时价格](https://go.apimart.ai/k-a0ec37) · [获取 API Key](https://go.apimart.ai/k-726428)**
 
 ## 가격（快照 2026-09-24）
 
